@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\bin\Debug\BinarySerchWithArray.exe.config
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\bin\Debug\BinarySerchWithArray.exe
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\bin\Debug\BinarySerchWithArray.pdb
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\obj\Debug\BinarySerchWithArray.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\obj\Debug\BinarySerchWithArray.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\obj\Debug\BinarySerchWithArray.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\obj\Debug\BinarySerchWithArray.exe
+D:\kia prjc\tamrin\BinarySerchWithArray\BinarySerchWithArray\obj\Debug\BinarySerchWithArray.pdb
